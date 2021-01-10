@@ -3,7 +3,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Welcome to SCA Cloud School Application')
+  res.send('Welcome to SCA Cloud School Application , this is my first assessment')
 })
 
 app.listen(port, () => {
