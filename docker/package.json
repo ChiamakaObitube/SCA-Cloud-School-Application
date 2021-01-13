@@ -1,0 +1,23 @@
+{
+  "name": "sca-cloud-school-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiamakaObitube/SCA-Cloud-School-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiamakaObitube/SCA-Cloud-School-Application/issues"
+  },
+  "homepage": "https://github.com/ChiamakaObitube/SCA-Cloud-School-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

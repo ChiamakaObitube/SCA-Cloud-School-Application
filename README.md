@@ -14,7 +14,8 @@ https://hub.docker.com/repository/docker/chiamakaobitube/sca-cloud-school-applic
 ## Instructions
 * Clone the repository
 * Cd into the repository and checkout to the stable branch
-* Run ```docker build --tag scacloud docker``` to build the docker image locally
+
+* Run ```docker build --tag scacloud folder``` to build the docker image locally
 * To test the application, use the command ```docker run --publish 3000:3000 scacloud``` 
 * Run ```docker run --network="host" scacloud``` to run the container locally
 * Note that the container runs on http:localhost:3000
