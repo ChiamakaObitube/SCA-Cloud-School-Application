@@ -21,4 +21,4 @@ https://hub.docker.com/repository/docker/chiamakaobitube/sca-cloud-school-applic
 * Note that the container runs on http:localhost:3000
 
 ### Building on the exisitng image
-* You can pull this image directly from Docker Hun using the command ```docker pull chiamakaobitube/sca-cloud-school-application:v2.0.0```
+* You can pull this image directly from Docker Hub using the command ```docker pull chiamakaobitube/sca-cloud-school-application:v2.0.0```
